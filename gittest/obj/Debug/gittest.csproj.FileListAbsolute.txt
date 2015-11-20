@@ -1,0 +1,9 @@
+u:\Projects\gittest\gittest\bin\Debug\gittest.exe.config
+u:\Projects\gittest\gittest\bin\Debug\gittest.exe
+u:\Projects\gittest\gittest\bin\Debug\gittest.pdb
+u:\Projects\gittest\gittest\obj\Debug\gittest.csprojResolveAssemblyReference.cache
+u:\Projects\gittest\gittest\obj\Debug\gittest.Form1.resources
+u:\Projects\gittest\gittest\obj\Debug\gittest.Properties.Resources.resources
+u:\Projects\gittest\gittest\obj\Debug\gittest.csproj.GenerateResource.Cache
+u:\Projects\gittest\gittest\obj\Debug\gittest.exe
+u:\Projects\gittest\gittest\obj\Debug\gittest.pdb
